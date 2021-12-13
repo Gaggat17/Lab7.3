@@ -1,0 +1,39 @@
+#my1{
+  background:#0062ff;
+}
+#my2{
+  background:#ff0019;
+}
+#my3{
+  background:#ffaa00;
+}
+#my4{
+  background:#3ec400;
+}
+#my1:clicked{
+  background:#a8adff;
+}
+#my2:clicked{
+  background:#bf4e58;
+}
+#my3:clicked{
+  background:#ffc34a;
+}
+#my4:clicked{
+  background:#7eff42;
+}
+.my{
+  width:100px;
+  height:100px;
+  margin:1px;
+  display:inline-block;
+}
+body{
+  background-color:antiquewhite;
+}
+h1{
+  margin-left: 20px;
+  font-family: monospace;
+  font-weight: bold;
+  color: #bf4e58;
+}
